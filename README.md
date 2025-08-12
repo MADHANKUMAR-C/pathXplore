@@ -89,6 +89,6 @@ pathXplore/
   
 ---
 
-##  Add star/fork badge
+##  Star/Fork badge
 
 [![GitHub stars](https://img.shields.io/github/stars/MADHANKUMAR-C/pathXplore?style=social)](https://github.com/MADHANKUMAR-C/pathXplore/stargazers)
